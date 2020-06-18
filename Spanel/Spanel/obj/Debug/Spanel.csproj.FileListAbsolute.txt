@@ -1,0 +1,35 @@
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\bin\Debug\Spanel.exe.config
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\bin\Debug\Spanel.exe
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\bin\Debug\Spanel.pdb
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.csprojAssemblyReference.cache
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.Properties.Resources.resources
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.csproj.GenerateResource.cache
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.csproj.CoreCompileInputs.cache
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.exe
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.pdb
+C:\Users\deniz.babat\source\repos\Spanel\Spanel\obj\Debug\Spanel.form_panel.resources
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\bin\Debug\Spanel.exe.config
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\bin\Debug\Spanel.exe
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\bin\Debug\Spanel.pdb
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.csprojAssemblyReference.cache
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.form_panel.resources
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.Properties.Resources.resources
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.csproj.GenerateResource.cache
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.csproj.CoreCompileInputs.cache
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.exe
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.pdb
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\bin\Debug\Bulb.exe
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\bin\Debug\Bulb.pdb
+C:\Users\deniz.babat\Documents\Visual Studio\Spanel\Spanel\obj\Debug\Spanel.csproj.CopyComplete
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\bin\Debug\Spanel.exe.config
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\bin\Debug\Spanel.exe
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\bin\Debug\Spanel.pdb
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\bin\Debug\Bulb.pdb
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.csprojAssemblyReference.cache
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.form_panel.resources
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.Properties.Resources.resources
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.csproj.GenerateResource.cache
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.csproj.CoreCompileInputs.cache
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.csproj.CopyComplete
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.exe
+C:\Users\deniz.babat\OneDrive - P.I.Works, Inc\Desktop\Bitirme_demo_codes\Spanel\Spanel\obj\Debug\Spanel.pdb
